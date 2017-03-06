@@ -1,6 +1,7 @@
 # Peer-graded Assignment: Getting and Cleaning Data Course Project.
 
 The project for the course "Getting and Cleaning Data" has a file deliverable named "run_analysis.R". The script does the following:
+
 Step 1: Set the downloaded filename of the dataset.
 Step 2: Download dataset from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 Step 3: Save downloaded file as "FUCI_HAR_Dataset.zip"
